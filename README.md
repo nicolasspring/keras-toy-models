@@ -9,4 +9,4 @@
 - Classes for k-fold-validation and ensembling (hard voting and soft voting).
 - A class for preprocessing data.
 
-All classes easily be tweaked to fit your specific purposes.
+All classes can easily be tweaked to fit your specific purposes.
